@@ -1,7 +1,7 @@
 # adonis-js-test
 Playing around with this Nodejs MVC framework
 
-Day 1 of coding with AdonisJS
+Day 1 of coding with AdonisJS - March 6, 2017
 - Reading the official documentation to know more about the basics of the framework
 - Installed the adonis-cli on my development machine
 - Digging more to the documentation before to scaffold a project
