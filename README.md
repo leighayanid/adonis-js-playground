@@ -11,9 +11,9 @@ Day 2 of coding with AdonisJS - March 8, 2017
 - Scaffold a new project using adonis-cli
 - Learned ace commands
 - Encountered problems during installation/running web server
-  - Creating project using adonis-cli throws an error when using yarn and won't install dependencies. Found out the cli has bug and already reported on its github page. The problem was solved by changing to directory to project directory and running yarn command to successfully install dependencies. 
+  - Creating project using adonis-cli throws an error when using yarn and won't install dependencies. Found out the cli has a bug and already reported on its github page. The problem was solved by changing to project directory and running yarn command to successfully install dependencies. 
   - Running the dev server will throw an error due to the .env.example file. This will be solved by changing the .env.example file to .env
-  - Running ./ace command inside windows command prompt won't work, git bash will do
+  - Running ./ace command inside windows command prompt won't work. Use git bash to run the command
 - Creating a project by running this command
   - adonis new [project name]
 - Running the server
