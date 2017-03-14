@@ -1,4 +1,13 @@
-# adonis-js-test
+|| Continous Learning |
+| ---------------- |:-------------|
+||  <h3>A list of topics I tackle day after day.</h3> |
+
+# Topics
+- [AdonisJS](#adonisjs)
+- [VueJS](#vuejs)
+- [Rails](#rails)
+
+## AdonisJS
 Playing around with this Nodejs MVC framework
 
 Day 1 of coding with AdonisJS - March 6, 2017
