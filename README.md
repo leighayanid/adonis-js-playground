@@ -1,6 +1,5 @@
-|| Continous Learning |
-| ---------------- |:-------------|
-||  <h3>A list of topics I tackle day after day.</h3> |
+Continous Learning
+<h3>A list of topics I tackle day after day.</h3>
 
 # Topics
 - [AdonisJS](#adonisjs)
