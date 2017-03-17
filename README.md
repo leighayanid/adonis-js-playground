@@ -1,4 +1,4 @@
-Continous Learning
+<h2>Continous Learning</h2>
 <h3>A list of topics I tackle day after day.</h3>
 
 # Topics
