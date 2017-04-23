@@ -6,3 +6,4 @@
 - [VueJS](/topics/vuejs.md)
 - [Rails](/topics/rails.md)
 - [ReactJS](/topics/reactjs.md)
+- [Loopback](/topics/loopback.md)
