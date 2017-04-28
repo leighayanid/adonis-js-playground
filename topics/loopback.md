@@ -9,4 +9,9 @@
 - Learned the core concepts of the framework such as Model which is the heart of Loopback and represent backend data sources such as database
 - Loopback comes with predefined REST API with a full set of CRUD operations.
 	- lb model  // generates model
+
+* April 28, 2017
+- Tried connecting loopback test project to a mongodb database using connector-mongodb-loopback
+- Successfully connected the sample project to a mongodb database 
+	- npm install -g connector-mongodb-loopback //this installs the connector to the project 
 	
