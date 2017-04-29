@@ -13,5 +13,5 @@
 * April 28, 2017
 - Tried connecting loopback test project to a mongodb database using connector-mongodb-loopback
 - Successfully connected the sample project to a mongodb database 
-	- npm install -g connector-mongodb-loopback //this installs the connector to the project 
+	- npm install -g loopback-connector-mongodb //this installs the connector to the project 
 	
